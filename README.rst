@@ -13,12 +13,9 @@ environment.
 If you want to contribute to development, report a bug, make a feature request
 or ask a question, please first take a look at our `community guidelines`_.
 Make sure you check our existing Issues and Pull Requests and that you join
-our `IRC or Slack channel <https://cuckoosandbox.org/discussion>`_.
+our `IRC or Slack channel .
 
 For setup instructions, please refer
-`to <https://docs.cuckoosandbox.org/en/latest/installation/host/requirements>`_
-`our <https://docs.cuckoosandbox.org/en/latest/installation/host/installation>`_
-`documentation <https://docs.cuckoosandbox.org/en/latest/>`_.
 
 This is a development version, we do not recommend its use in production; the
 latest stable version may be installed through :code:`pip install -U cuckoo`.
