@@ -11,9 +11,9 @@ results outlining what such file did when executed inside an isolated
 environment.
 
 If you want to contribute to development, report a bug, make a feature request
-or ask a question, please first take a look at our `community guidelines`_.
+or ask a question, please first take a look at our.
 Make sure you check our existing Issues and Pull Requests and that you join
-our `IRC or Slack channel .
+our.
 
 For setup instructions, please refer
 
